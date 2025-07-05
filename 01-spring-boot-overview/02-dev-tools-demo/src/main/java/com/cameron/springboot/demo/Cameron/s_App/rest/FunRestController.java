@@ -11,5 +11,9 @@ public class FunRestController {
         return "Hello World!";
     }
 
-
+    // adding a secondary endpoint
+    @GetMapping("/workout")
+    public String workout() {
+        return "Drop for 20 pushups!";
+    }
 }
