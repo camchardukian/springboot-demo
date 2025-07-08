@@ -1,4 +1,4 @@
-package com.cameron_spring.springcoredemo;
+package com.cameron_spring.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
